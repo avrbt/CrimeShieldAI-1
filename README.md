@@ -113,11 +113,16 @@ This project is private and not yet licensed for public distribution.
 
 ## 👤 Author
 AVIRAL BAJPAI
-**avrbt** — [GitHub](https://github.com/avrbt)
+[GitHub](https://github.com/avrbt)
+
+BHAVYA TIWARI
+[GitHub](https://github.com/bhavyagit890)
 
 AYUSH YADAV
 [GitHub](https://github.com/Ayush-Yadav-5)
 
----
+AVTAAR KUMAR SINGH
+[GitHub](https://github.com/AvtaarKumarSingh)
 
+---
 > *Built to make communities safer through the power of AI.*
